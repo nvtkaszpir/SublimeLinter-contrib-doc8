@@ -6,7 +6,7 @@ SublimeLinter-contrib-doc8
 This linter plugin for [SublimeLinter][docs] provides an interface to [doc8](https://launchpad.net/doc8). It will be used with files that have the ``rst`` syntax.
 
 ## Installation
-SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 3 is not installed, please follow the instructions [here][installation].
+SublimeLinter 4 must be installed in order to use this plugin. If SublimeLinter 4 is not installed, please follow the instructions [here][installation].
 
 ### Linter installation
 Before using this plugin, you must ensure that `doc8` is installed on your system. To install `doc8`, do the following:
@@ -33,6 +33,8 @@ This package is not in the PackageControl, but you can use it by cloning repo:
 cd ~/.config/sublime-text-3/Packages
 git clone https://github.com/nvtkaszpir/SublimeLinter-contrib-doc8
 ```
+
+After that restart SublimeText.
 
 ## Settings
 
