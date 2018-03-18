@@ -22,7 +22,7 @@ class Doc8(Linter):
     version_requirement = '>= 0.8.0'
     regex = (
         r'^.+?:(?P<line>\d+): '
-        r'(?P<error>[D])\d+ '
+        r'(?P<error>[D]\d+) '
         r'(?P<message>.+)'
     )
     multiline = False
