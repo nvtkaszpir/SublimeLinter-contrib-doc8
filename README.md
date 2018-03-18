@@ -26,17 +26,18 @@ In order for `doc8` to be executed by SublimeLinter, you must ensure that its pa
 Once you have installed and configured `doc8`, you can proceed to install the SublimeLinter-contrib-doc8 plugin if it is not yet installed.
 
 ### Plugin installation
-Please use [Package Control][pc] to install the linter plugin. This will ensure that the plugin will be updated when new versions are available. If you want to install from source so you can modify the source code, you probably know what you are doing so we won’t cover that here.
 
-To install via Package Control, do the following:
+This package is not in the PackageControl, but you can use it by cloning repo:
 
-1. Within Sublime Text, bring up the [Command Palette][cmd] and type `install`. Among the commands you should see `Package Control: Install Package`. If that command is not highlighted, use the keyboard or mouse to select it. There will be a pause of a few seconds while Package Control fetches the list of available plugins.
-
-1. When the plugin list appears, type `doc8`. Among the entries you should see `SublimeLinter-contrib-doc8`. If that entry is not highlighted, use the keyboard or mouse to select it.
+```bash
+cd ~/.config/sublime-text-3/Packages
+git clone https://github.com/nvtkaszpir/SublimeLinter-contrib-doc8
+```
 
 ## Settings
 
 You should use ``doc8.ini`` file in current working directory of the project, or in your home directory.
+Refer to doc8 documentation.
 
 ## Contributing
 If you would like to contribute enhancements or fixes, please do the following:
