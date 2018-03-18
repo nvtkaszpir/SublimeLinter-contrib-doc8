@@ -1,6 +1,6 @@
 #
 # linter.py
-# Linter for SublimeLinter3, a code checking framework for Sublime Text 3
+# Linter for SublimeLinter, a code checking framework for Sublime Text 3
 #
 # Written by Michał Sochoń <kaszpir@gmail.com>
 # Copyright (c) 2018

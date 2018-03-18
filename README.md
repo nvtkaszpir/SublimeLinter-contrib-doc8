@@ -1,7 +1,7 @@
 SublimeLinter-contrib-doc8
 ================================
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-doc8.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-doc8)
+[![Build Status](https://travis-ci.org/nvtkaszpir/SublimeLinter-contrib-doc8.svg?branch=master)](https://travis-ci.org/nvtkaszpir/SublimeLinter-contrib-doc8)
 
 This linter plugin for [SublimeLinter][docs] provides an interface to [doc8](https://launchpad.net/doc8). It will be used with files that have the ``rst`` syntax.
 
