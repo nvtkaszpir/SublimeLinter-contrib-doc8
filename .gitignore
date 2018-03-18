@@ -1,1 +1,12 @@
+*.pyc
+*.sublime-project
+*.sublime-workspace
+.cache
+.coverage
 .DS_Store
+.mypy_cache/
+.ropeproject/
+_build/
+build/
+coverage.xml
+package-metadata.json
