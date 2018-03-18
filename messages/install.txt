@@ -1,0 +1,16 @@
+SublimeLinter-contrib-doc8
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to doc8.
+
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/openstack/doc8
+
+Please also visit below places for more:
+
+https://launchpad.net/doc8
+http://git.openstack.org/cgit/openstack/doc8/
+
